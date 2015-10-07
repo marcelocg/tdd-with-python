@@ -1,6 +1,6 @@
 # Test-Driven Development with Python
 
-This project is the result of following along all the hands on exercises from the book Test-Driven Development with Python, by Harry Percival.
+This project is the result of following along all the hands on exercises from the book [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html), by Harry Percival.
 
 Commits should follow roughly the same frequency as recommended by the text, although I may put my own experiments among the proposed solutions.
 
